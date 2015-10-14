@@ -24,7 +24,7 @@ restaurants_attributes = [
     category:     "french",
   },
   {
-    name:         "LE barbier qui fume",
+    name:         "Le barbier qui fume",
     address:      "rue royale 59000 Lille",
     category:     "french",
   },
